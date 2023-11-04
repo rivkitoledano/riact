@@ -1,0 +1,63 @@
+.StationContainer {
+    background-color: #f7f7f7;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .CurrentTime {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .SelectContainer {
+    margin-bottom: 10px;
+  }
+  
+  .SelectContainer select {
+    width: 200px;
+    height: 30px;
+    border: none;
+    border-radius: 5px;
+    background-color: #fff;
+    color: #333;
+    font-size: 16px;
+    padding: 5px;
+  }
+  
+  .StationInfo {
+    margin-bottom: 10px;
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  .StationInfo div {
+    margin-bottom: 5px;
+  }
+  
+  .StationInfo .Street {
+    font-size: 18px;
+    color: #333;
+  }
+  
+  .StationInfo .Lines {
+    font-size: 16px;
+    color: #666;
+  }
+  
+  .StationInfo .StationNumber {
+    font-size: 16px;
+    color: #666;
+  }
+  
+  .StationInfo .Address {
+    font-size: 16px;
+    color: #666;
+  }
+  
+  .StationInfo .City {
+    font-size: 16px;
+    color: #666;
+  }
